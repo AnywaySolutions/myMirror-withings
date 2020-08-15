@@ -6,7 +6,7 @@ Module.register("mymirror-withings",{
 
 	getDom: function() {
 		var div = document.createElement("div");
-		div.innerHTML("Hello World");
+		div.innerHTML('Hello World!');
 		return div;
 	}
 
