@@ -2,7 +2,7 @@
 
 Module.register("myMirror-withings", {
 	
-	init: functino() {
+	start: functino() {
 		console.log("Starting myMirror-withings");
 	},
 
