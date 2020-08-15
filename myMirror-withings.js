@@ -1,4 +1,4 @@
-Module.register("mymirror-withings", {
+Module.register("myMirror-withings", {
 
 	getDom: function() {
 		console.log("testing this shit");
