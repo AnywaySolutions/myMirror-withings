@@ -11,4 +11,5 @@ Module.register("myMirror-withings", {
 		div.innerHTML("Hello World");
 		return div;
 	}
+	
 });
