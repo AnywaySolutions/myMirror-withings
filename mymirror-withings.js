@@ -14,6 +14,8 @@ Module.register("myMirror-withings", {
 		table.classList.add("mymirror-withings-table");
 
 		table.innerHTML("Hello World");
+
+		return table;
 	},
 
 });
