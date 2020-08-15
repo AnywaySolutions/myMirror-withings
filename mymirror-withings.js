@@ -1,6 +1,4 @@
-'use strict';
-
-Module.register("myMirror-withings", {
+Module.register("mymirror-withings", {
 	
 	start: functino() {
 		console.log("Starting myMirror-withings");
@@ -11,5 +9,5 @@ Module.register("myMirror-withings", {
 		div.innerHTML("Hello World");
 		return div;
 	}
-	
+
 });
