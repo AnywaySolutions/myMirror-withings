@@ -1,0 +1,25 @@
+{
+  "name": "mymirror-withings",
+  "version": "1.0.0",
+  "description": "Module for MagicMirror",
+  "main": "mymirror-withings.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnywaySolutions/myMirror-withings.git"
+  },
+  "keywords": [
+    "magic",
+    "mirror",
+    "mymirrir",
+    "withings"
+  ],
+  "author": "Jakub Zak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnywaySolutions/myMirror-withings/issues"
+  },
+  "homepage": "https://github.com/AnywaySolutions/myMirror-withings#readme"
+}
