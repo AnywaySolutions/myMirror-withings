@@ -1,6 +1,6 @@
-Module.register("mymirror-withings", {
+Module.register("mymirror-withings",{
 	
-	start: functino() {
+	start: function() {
 		console.log("Starting myMirror-withings");
 	},
 
